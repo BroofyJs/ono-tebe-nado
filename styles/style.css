@@ -18,7 +18,7 @@
   list-style: circle;
   grid-column: 1;
 }
-/* TODO сделать подчеркивание на втором и первом элементе */
+
 .header_links-list .header_links-list-item a {
   border-bottom: 1px solid;
 }
@@ -47,11 +47,6 @@
   line-height: 24.3px;
   grid-column: 3;
   justify-self: end;
-}
-
-.address_link {
-  border-bottom: 1px solid;
-  width: 135px;
 }
 
 .cover {
