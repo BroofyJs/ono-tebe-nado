@@ -39,7 +39,7 @@
 address {
   display: flex;
   flex-direction: column;
-  width: 240px;
+  width: 250px;
   line-height: 24.3px;
   grid-column: 3;
   justify-self: end;
@@ -152,7 +152,7 @@ address {
   display: flex;
   gap: 25px;
   list-style: none;
-  margin-bottom: 12px;
+  margin-bottom: 30px;
   justify-content: space-between;
   overflow-x: hidden;
 }
