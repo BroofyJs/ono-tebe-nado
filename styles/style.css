@@ -162,7 +162,7 @@ address {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 50px 39px;
+  padding: 50px 39.5px;
   width: 430px;
   min-height: 450px;
   color: #fff;
@@ -243,6 +243,7 @@ address {
   font-size: 20px;
   grid-column: 3 / 4;
   padding-top: 7px;
+  padding-right: 5px;
 }
 
 .footer {
